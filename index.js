@@ -1,6 +1,6 @@
 
 
-require('./lib/model/user')
+require('./lib/models/user')
 
 var mongoose = require('mongoose')
   , LocalStrategy = require('passport-local').Strategy
