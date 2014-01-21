@@ -1,0 +1,18 @@
+{
+    "name": "nauth",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+	"mongoose": "3.6.17",
+	"mongoose-hash": "0.2.0",
+	"password-filter": "0.1.0",
+	"passport-local": "0.1.6",
+	"passport-http-bearer": "1.0.1"
+    }
+    "author": "Jan Lisal <lisal.honza@gmail.com>",
+    "license": "MIT"
+}
