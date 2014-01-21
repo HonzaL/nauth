@@ -12,7 +12,7 @@
 	"password-filter": "0.1.0",
 	"passport-local": "0.1.6",
 	"passport-http-bearer": "1.0.1"
-    }
+    },
     "author": "Jan Lisal <lisal.honza@gmail.com>",
     "license": "MIT"
 }
